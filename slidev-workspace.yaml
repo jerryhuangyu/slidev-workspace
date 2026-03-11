@@ -1,0 +1,9 @@
+baseUrl: /slidev-workspace-starter
+
+hero:
+  title: Slidev Workspace Starter
+  description: A starter for Slidev Workspace
+
+sidebar:
+  title: "My Sidebar"
+  githubUrl: "https://github.com/leochiu-a/slidev-workspace"
