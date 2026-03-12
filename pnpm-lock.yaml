@@ -31,52 +31,7 @@ importers:
         specifier: ^1.56.1
         version: 1.56.1
 
-  slides/lectures/class01/topic1:
-    dependencies:
-      '@slidev/cli':
-        specifier: 'catalog:'
-        version: 52.11.0(@babel/parser@7.28.5)(@nuxt/kit@3.20.0)(@types/markdown-it@14.1.2)(@types/node@22.18.13)(@vue/compiler-sfc@3.5.25)(lightningcss@1.30.2)(markdown-it-async@2.2.0)(playwright-chromium@1.56.1)(postcss@8.5.6)
-      '@slidev/theme-default':
-        specifier: 'catalog:'
-        version: 0.25.0
-      '@slidev/theme-seriph':
-        specifier: 'catalog:'
-        version: 0.25.0
-      vue:
-        specifier: 'catalog:'
-        version: 3.5.17(typescript@5.9.3)
-
-  slides/slidev-starter-1:
-    dependencies:
-      '@slidev/cli':
-        specifier: 'catalog:'
-        version: 52.11.0(@babel/parser@7.28.5)(@nuxt/kit@3.20.0)(@types/markdown-it@14.1.2)(@types/node@22.18.13)(@vue/compiler-sfc@3.5.25)(lightningcss@1.30.2)(markdown-it-async@2.2.0)(playwright-chromium@1.56.1)(postcss@8.5.6)
-      '@slidev/theme-default':
-        specifier: 'catalog:'
-        version: 0.25.0
-      '@slidev/theme-seriph':
-        specifier: 'catalog:'
-        version: 0.25.0
-      vue:
-        specifier: 'catalog:'
-        version: 3.5.17(typescript@5.9.3)
-
-  slides/talks/fms-workflow:
-    dependencies:
-      '@slidev/cli':
-        specifier: 'catalog:'
-        version: 52.11.0(@babel/parser@7.28.5)(@nuxt/kit@3.20.0)(@types/markdown-it@14.1.2)(@types/node@22.18.13)(@vue/compiler-sfc@3.5.25)(lightningcss@1.30.2)(markdown-it-async@2.2.0)(playwright-chromium@1.56.1)(postcss@8.5.6)
-      '@slidev/theme-default':
-        specifier: 'catalog:'
-        version: 0.25.0
-      '@slidev/theme-seriph':
-        specifier: 'catalog:'
-        version: 0.25.0
-      vue:
-        specifier: 'catalog:'
-        version: 3.5.17(typescript@5.9.3)
-
-  slides/talks/slidev-starter-2:
+  slides/fms-workflow:
     dependencies:
       '@slidev/cli':
         specifier: 'catalog:'
